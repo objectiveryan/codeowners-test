@@ -1,1 +1,4 @@
 a/b/* @objectiveryan
+a/b/e* @objectiveryan
+a/b/f*f @objectiveryan
+a/b/*g @objectiveryan
